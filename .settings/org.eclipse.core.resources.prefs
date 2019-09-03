@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/main/java=UTF-8
+encoding//src/main/java/com/zw/test/config/BootApplication.java=UTF-8
+encoding//src/main/java/com/zw/test/config/MybatisConfig.java=UTF-8
+encoding//src/main/resources=UTF-8
+encoding//src/main/resources/jdbc.properties=UTF-8
+encoding//src/main/resources/upload.properties=UTF-8
+encoding//src/main/webapp/index2.jsp=UTF-8
+encoding//src/test/java=UTF-8
+encoding/<project>=UTF-8
